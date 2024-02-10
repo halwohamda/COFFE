@@ -24,6 +24,6 @@ const MenuCard = (props) => {
         </div>
     </div>
   )
-}
+};
 
 export default MenuCard
