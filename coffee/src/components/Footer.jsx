@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='bg-gradient-to-r from-[#FFDCAB] to-[#AB6B2E] text-black rounded-t-3xl mt-8 md:mt-0 '>
         <div className='flex flex-col md:flex-row justify-between p-8 md:px-32 px-5 '>
                 <div className='w-full md:w-1/4'>
-                        <h1 className='font-semibold text-xl pb-4'>AvavCoffee</h1>
+                        <h1 className='font-semibold text-xl pb-4'>HalwoCoffee</h1>
                         <p className='text-sm '>Welcome to Our Coffe havent! Explore Our AroMatic brows, savor
                                 Artisanal flavors , and distcover the perfect roas to elevate your daily ritual
                                  </p>
@@ -36,10 +36,10 @@ const Footer = () => {
                         <nav className='flex flex-col gap-2 '>
                                 
                                 <a className='hover:text-backgroundColor transition-all cursor-pointer' href="/">
-                                        AvavCoffe@gmail.com
+                                        HalwoCoffe@gmail.com
                                 </a>
                                 <a className='hover:text-backgroundColor transition-all cursor-pointer' href="/">
-                                        +251921236763
+                                        +251992914707
                                 </a>
                                 <a className='hover:text-backgroundColor transition-all cursor-pointer' href="/">
                                         Social Media 
